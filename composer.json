@@ -19,6 +19,11 @@
             "homepage": "http://www.spiffyjr.me/"
         }
     ],
+    "require": {
+        "php": ">=5.3.3",
+        "zf-commons/zfc-user": "1.*",
+        "doctrine/doctrine-orm-module": "0.*"
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "0.1.x-dev"
