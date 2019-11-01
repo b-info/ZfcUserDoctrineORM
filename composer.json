@@ -1,6 +1,6 @@
 {
-    "name": "zf-commons/zfc-user-doctrine-orm",
-    "description": "Doctrine2 ORM storage adapter for ZfcUser.",
+    "name": "binfo/zfc-user-doctrine-orm",
+    "description": "A huge pile of regrets",
     "type": "library",
     "license": "BSD-3-Clause",
     "keywords": [
